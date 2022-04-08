@@ -79,3 +79,35 @@ Y
 )seminar4_prototype/src/clase/Program.java,3\6\368a2bb169fe54dfb16350817ae2668a3d6ebb6e
 Y
 )seminar4_prototype/src/clase/Tramvai.java,9\f\9f2ee09a72c673ab1f0d9169272fca88647b8d86
+M
+builder/src/main/Program.java,0\7\07c0e90c2c3b3021e763c1a95cf4ba3cc8cd3fda
+N
+builder/src/clase/Autobuz.java,0\2\026709bb6dd6c115232832b991fef82ec7e57d8c
+U
+%builder/src/clase/AutobuzBuilder.java,9\0\903034e1351469a7109bbe92495c30d37f1c7b1e
+W
+'builderV2/src/clase/AutobuzBuilder.java,c\3\c3fc5eccedf2a5c7da14aa2a4d746c1ceff684ab
+P
+ builderV2/src/clase/Autobuz.java,f\5\f5474190369b76d96126089b1d57fb5e47a59448
+P
+ builderV2/src/clase/Builder.java,9\a\9ac36ecafeb5cee355f5e99e50c0ccebf5d513ec
+O
+builderV2/src/main/Program.java,1\c\1c14e258a87a20d34432e82e6f0db70fb0e4d25f
+c
+3seminar5_adapterObiecte/seminar5_adapterObiecte.iml,b\a\baa036f3b0cbd84a9d7f852cbc345a906cf04b2f
+s
+Cseminar5_adapterObiecte/src/clase/validatorClase/AdapterMetrou.java,6\a\6ab48ebd0bccb1ab8c903d4439040663a769d09e
+c
+3seminar5_adapterObiecte/src/clase/main/Program.java,a\9\a9253efe63ed0b6cced0d52a40e375cd6355acc1
+h
+8seminar5_adapterObiecte/src/clase/autobuz/Validator.java,a\0\a0eeeafabc7759d861ac8c0b8a2a93983490f6ca
+o
+?seminar5_adapterObiecte/src/clase/autobuz/ValidatorAutobuz.java,4\5\45c3b8fdd3a0085607cb4c1eaaea615558a26a6b
+m
+=seminar5_adapterObiecte/src/clase/metrou/ValidatorMetrou.java,b\0\b06ee4461193ed090feaaa6a1a4ae92278f99e7b
+o
+?seminar5_adapterObiecte/src/clase/ValidatorSubteranAdapter.java,0\4\04ef366069fbb533921f69b98370fc8d1759a480
+l
+<seminar5_adapterObiecte/src/clase/metrou/ValidatorulMeu.java,a\7\a7f3217372473bee040dd19e85e4aa92795374be
+S
+#seminar5_facade/seminar5_facade.iml,f\1\f18d6d2676563c36391587c96aeac9f2bfe2b07d
