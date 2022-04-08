@@ -1,0 +1,8 @@
+-> in singleton nu avem constructor public (ci privat)
+
+                SINGLETON
+                ------------
+        - atribut Singleton instanta (tot statica)
+                ------------
+        - singleton ()
+        + getInstance() - trebuie sa fie functie statica
