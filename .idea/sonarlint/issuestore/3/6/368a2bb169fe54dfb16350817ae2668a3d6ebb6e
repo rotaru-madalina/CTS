@@ -1,0 +1,9 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "text".(Ò¹õá8‹Ğ›ÿ/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èóº¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÚ²üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÙ–‹üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜¨Üë
+F
+java:S1481")Remove this unused "text" local variable.(Ò¹õá8Ğ›ÿ/

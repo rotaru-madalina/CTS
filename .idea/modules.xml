@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/seminar3_factory/seminar3_factory.iml" filepath="$PROJECT_DIR$/seminar3_factory/seminar3_factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar3/seminar3_singleton.iml" filepath="$PROJECT_DIR$/seminar3/seminar3_singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar4_prototype/seminar4_prototype.iml" filepath="$PROJECT_DIR$/seminar4_prototype/seminar4_prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5_adapterObiecte/seminar5_adapterObiecte.iml" filepath="$PROJECT_DIR$/seminar5_adapterObiecte/seminar5_adapterObiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5_facade/seminar5_facade.iml" filepath="$PROJECT_DIR$/seminar5_facade/seminar5_facade.iml" />
     </modules>
   </component>
 </project>

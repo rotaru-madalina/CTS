@@ -1,2 +1,13 @@
 - recuperare CTS: sala 2013A, 8 apr ora 18:00
 - 2 mai: test CTS ?
+
+SEMINAR 8 aprilie
+ex 4: VALIDATOR AUTOBUZ, VALIDATOR METROU (clase concrete)
+        VALIDATOR pt fiecare clasa concretă (interfete)
+        ADAPTER-ul implementeaza interfata (apelam metodele din validator metrou)
+
+
+LUCRARE SÂMBĂTĂ 7 mai
+cerinta 1 + 3: de implementat design pattern
+cerinta 2: testare
+au punctaje separate
