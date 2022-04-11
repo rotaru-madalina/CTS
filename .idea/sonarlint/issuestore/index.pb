@@ -27,12 +27,8 @@ U
 %seminar3_factory/seminar3_factory.iml,3\e\3eebecac2d9de770b316e72867bee984a6911919
 Y
 )seminar3_factory/src/factory/Autobuz.java,c\2\c22c128825a309a8159182fdadab65dcb849c4e2
-Y
-)seminar3_factory/src/factory/Factory.java,3\f\3f87b798fbbead9511ae2b1107514d8628ef60d2
 U
 %seminar3/src/singleton/main/Main.java,6\9\69c2b3321a971876fed97c991a5a41406ab64be6
-a
-1seminar3_factory/src/factory/MijlocTransport.java,3\d\3db83f2d0890a103245680ed63a2a37a1f28fdf4
 V
 &seminar3/src/singleton/Repartitor.java,5\b\5baa8c0c6f5534b94bb4bef1f8ee29eea118b51b
 ^
@@ -41,8 +37,6 @@ Y
 )seminar3_factory/src/factory/Tramvai.java,a\c\acd213a9ac8f30a9eab37f7daeb12cc65a243d7a
 [
 +seminar3_factory/src/factory/Troleibuz.java,b\b\bbea08af044fac8d1ad4bdfcdc8a4f9f1d8f913c
-a
-1seminar3_factory/src/factory/program/Program.java,c\1\c106dfa250e9ced33f67965742a2a857ec3c1e78
 l
 <seminar3_FactoryMethod/src/factoryMethod/FactoryAutobuz.java,b\0\b0e4a92d38d3bce534305b8cb04ad13228d4288d
 n

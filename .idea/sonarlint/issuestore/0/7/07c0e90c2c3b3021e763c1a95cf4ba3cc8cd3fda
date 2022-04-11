@@ -1,0 +1,8 @@
+
+S
+java:S1854"6Remove this useless assignment to local variable "a1".(¥õÑª8çøõ›ÿ/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èóº¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÚ²üÿÿÿÿ
+=
+java:S1481"'Remove this unused "a1" local variable.(¥õÑª
+X	java:S125"<This block of commented-out lines of code should be removed.(…­ñ˜8‡¡œÿ/
