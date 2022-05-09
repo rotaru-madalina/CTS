@@ -22,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/seminar8_ChainOfResponsability/seminar8_ChainOfResponsability.iml" filepath="$PROJECT_DIR$/seminar8_ChainOfResponsability/seminar8_ChainOfResponsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar8_proxy/seminar8_proxy.iml" filepath="$PROJECT_DIR$/seminar8_proxy/seminar8_proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar8_template/seminar8_template.iml" filepath="$PROJECT_DIR$/seminar8_template/seminar8_template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar9_memento/seminar9_memento.iml" filepath="$PROJECT_DIR$/seminar9_memento/seminar9_memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar9_state/seminar9_state.iml" filepath="$PROJECT_DIR$/seminar9_state/seminar9_state.iml" />
     </modules>
   </component>
 </project>

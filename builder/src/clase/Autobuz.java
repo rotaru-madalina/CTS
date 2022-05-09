@@ -29,7 +29,7 @@ public class Autobuz {
                 '}';
     }
 
-    void setNumeSofer(String numeSofer) {
+     void setNumeSofer(String numeSofer) {
         this.numeSofer = numeSofer;
     }
 

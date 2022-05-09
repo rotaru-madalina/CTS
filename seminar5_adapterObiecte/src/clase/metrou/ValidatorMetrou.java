@@ -4,7 +4,6 @@ public class ValidatorMetrou implements ValidatorulMeu{
     @Override
     public void validareCalatorie() {
         System.out.println("Am validat calatoria de metrou");
-
     }
 
     @Override
