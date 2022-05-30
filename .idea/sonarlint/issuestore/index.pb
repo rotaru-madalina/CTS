@@ -251,3 +251,7 @@ d
 .seminar9_command/src/clase/ManagerComenzi.java,5\f\5fbfe3fd9192cd4a4f89999cf005db9a06729f42
 W
 'seminar12_junit_1/seminar12_junit_1.iml,2\7\27b4ecacf1712210965a4bb31bc7fd735bd5138e
+[
++seminar12_junit_1/src/clase/Matematica.java,1\8\18e9d9da2e61e6070579d87b507dccd5f62098c1
+W
+'seminar12_junit_2/seminar12_junit_2.iml,b\7\b709964b264b61f1b0f82841d7c9040cafdd3dd1
